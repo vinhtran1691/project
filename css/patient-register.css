@@ -55,6 +55,9 @@ height: 40px;
 	border-radius: 10px;
 }
 .header-form{
+	margin-bottom: 5px;
+	margin-top: 5px;
+	margin-top: 5px;
 	font-size: 1.3em;
 	/*font-weight: bold;*/
 }
@@ -67,23 +70,6 @@ height: 40px;
 text-decoration: none;
 }
 
-.nguoidung{
-	margin-top: 5px;
-	color:#FFF;
-	border:1px solid #C2C2C2;
-	border-radius:5px;
-	background-color:#428bca;
-}
-
-.header{
-	margin-top:5px;
-	padding-left:10px;
-	font-size: 1.5em;
-}
-
-.chucnang{
-margin-top:10px;
-}
 
 .tittle {
 	color:#426c08;
@@ -91,10 +77,6 @@ margin-top:10px;
 	font-size: 1.3em;
 }
 
-.block {
-	padding-left:5px;
-	padding-right:5px;
-}
 .thumbnail {
 	height: 230px;
 }
@@ -104,16 +86,7 @@ margin-top:10px;
 max-width: 40%;
 
 }
-.btntim{
-	background-color:#C2C2C2;
-}
-.tenbs{
-	text-align: center;
-	padding-right: 10px;
-	padding-left: 10px;
-	margin-top:3px;
-	border-bottom:1px solid #E0E0E0;
-}
+
 .block-bacsi{
 	border:1px solid #E0E0E0;
 	border-radius: 10px;
@@ -130,8 +103,24 @@ max-width: 40%;
 	border: 1px solid #E0E0E0;
 	border-radius: 10px;
 }
+.dangki{
+	background-color: #FFF;
+	padding-bottom: 10px;
+	border: 1px solid #D7D9D9;
+	border-radius: 8px;
+
+}
+.titdk {
+	text-align: center;
+	margin-top:10px;
+	margin-bottom:10px;
+	color: #428bca;
+	font-size: 2em;
+	border-bottom:1px solid #D7D9D9;
+}
+
 .footer{
-	margin-top: 10px;
+	margin-top: 50px;
 	margin-left: 0px;
 	margin-right: 0px;
 }

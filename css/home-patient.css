@@ -19,21 +19,11 @@ body{
 	background-image:url("../images/banner2.jpg");
 }
 
-#dangky {
-	margin-bottom: 5px;
-	margin-top: 205px;
-}
-
-#btndangky {
-	width: 60px;
-	height:20px;
-}
-#btndangky {
+#btndangxuat {
 font-size: 1em;
 width: 146px;
 height: 40px;
 }
-
 .content {
 	margin-left:0px;
 	margin-right:0px;
@@ -104,6 +94,16 @@ margin-top:10px;
 max-width: 40%;
 
 }
+.avatar{
+	background-color: #CCFFCC;
+	border:1px solid #8F8FFF;
+}
+.avatar >img,
+.thumbnail a>img {
+	max-width: 80%;
+	margin-top:5px;
+	border-radius:8px;
+}
 .btntim{
 	background-color:#C2C2C2;
 }
@@ -152,4 +152,16 @@ max-width: 40%;
 }
 .thongtin{
 	background-color:#E0E0E0;
+}
+.ten{
+	text-align: center;
+	color:#FF0000;
+	font-size: 1.3em;
+}
+.diachi{
+	text-align:center;
+	color:#FF0000;
+}
+.infouser{
+	margin-top:10px;
 }

@@ -48,72 +48,64 @@ height: 40px;
 	border-bottom: 1px solid #E0E0E0;
 	border-radius: 5px;
 }
-.dangnhap{
-	background-color: #ffffff;
-	margin-top:10px;
-	border:1px solid #E0E0E0;
-	border-radius: 10px;
+.infouser {
+margin-top: 10px;
 }
 .header-form{
+	margin-bottom: 5px;
+	margin-top: 5px;
+	margin-top: 5px;
 	font-size: 1.3em;
 	/*font-weight: bold;*/
 }
 
-.quenmk {
-	margin-left: 44px;
-	text-decoration: none;
-}
-.quenmk a:hover {
-text-decoration: none;
-}
+.thumbnail>img,
+.thumbnail a>img {
+width:150px;
+height:140px;
 
-.nguoidung{
-	margin-top: 5px;
-	color:#FFF;
-	border:1px solid #C2C2C2;
-	border-radius:5px;
-	background-color:#428bca;
 }
-
-.header{
-	margin-top:5px;
-	padding-left:10px;
-	font-size: 1.5em;
+.avatar{
+	background-color: #CCFFCC;
+	border:1px solid #8F8FFF;
 }
-
-.chucnang{
-margin-top:10px;
-}
-
 .tittle {
 	color:#426c08;
 	margin-left:15px;
 	font-size: 1.3em;
 }
 
-.block {
-	padding-left:5px;
-	padding-right:5px;
-}
 .thumbnail {
 	height: 230px;
 }
 
 .thumbnail>img,
 .thumbnail a>img {
-max-width: 40%;
+
 
 }
-.btntim{
-	background-color:#C2C2C2;
+.avatar >img,
+.thumbnail a>img {
+
+	margin-top:5px;
+	border-radius:8px;
 }
-.tenbs{
+.thongtin{
+	background-color:#E0E0E0;
+}
+.ten{
 	text-align: center;
-	padding-right: 10px;
-	padding-left: 10px;
-	margin-top:3px;
-	border-bottom:1px solid #E0E0E0;
+	color:#FF0000;
+	font-size: 1.3em;
 }
+.diachi{
+	text-align:center;
+	color:#FF0000;
+}
+.infouser{
+	margin-top:10px;
+}
+
 .block-bacsi{
 	border:1px solid #E0E0E0;
 	border-radius: 10px;
@@ -130,8 +122,25 @@ max-width: 40%;
 	border: 1px solid #E0E0E0;
 	border-radius: 10px;
 }
+.dangki{
+	margin-top: 45px;
+	background-color: #FFF;
+	padding-bottom: 10px;
+	border: 1px solid #D7D9D9;
+	border-radius: 8px;
+
+}
+.titdk {
+	text-align: center;
+	margin-top:10px;
+	margin-bottom:10px;
+	color: #428bca;
+	font-size: 2em;
+	border-bottom:1px solid #D7D9D9;
+}
+
 .footer{
-	margin-top: 10px;
+	margin-top: 50px;
 	margin-left: 0px;
 	margin-right: 0px;
 }
@@ -152,4 +161,10 @@ max-width: 40%;
 }
 .thongtin{
 	background-color:#E0E0E0;
+}
+
+}
+.anhdaidien{
+	width:150px;
+	height:140px;
 }
